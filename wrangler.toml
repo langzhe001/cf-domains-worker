@@ -1,4 +1,4 @@
-name = "domain-distribution-worker"
+name = "cf-domains-worker"
 main = "src/index.ts"
 compatibility_date = "2023-08-30"
 
