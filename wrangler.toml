@@ -1,0 +1,7 @@
+name = "domain-distribution-worker"
+main = "src/index.ts"
+compatibility_date = "2023-08-30"
+
+[vars]
+# 默认用户可分配域名数
+MAX_DOMAINS_PER_USER = "3"
